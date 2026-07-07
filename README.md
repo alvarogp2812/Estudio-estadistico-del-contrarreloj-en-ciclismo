@@ -11,7 +11,7 @@ Trabajo final de la asignatura de Estadistica (Grado en Ingenieria Informatica, 
 
 ## Descripcion del estudio
 
-Los datos utilizados son los resultados de la contrarreloj individual de La Vuelta a Espana 2023 (dataset `Ciclistas.xlsx`, no incluido en este repositorio). La variable principal analizada es `Tiempo(s)`, el tiempo en segundos que tardo cada participante en completar la prueba. Como variables secundarias se emplean la edad del ciclista, la velocidad media (Km/h) y el equipo al que pertenece.
+Los datos utilizados son los resultados de la contrarreloj individual de La Vuelta a Espana 2023 (dataset `Ciclistas.xlsx`). La variable principal analizada es `Tiempo(s)`, el tiempo en segundos que tardo cada participante en completar la prueba. Como variables secundarias se emplean la edad del ciclista, la velocidad media (Km/h) y el equipo al que pertenece.
 
 El estudio se estructura en las siguientes partes:
 
